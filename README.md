@@ -78,5 +78,5 @@ This project demonstrates how AI-powered document processing can automate financ
 
 ## 👨‍💼 Author
 
-**Shivam Pandit**
+**Gagan Sharma**
 MBA Finance | Financial Analytics | AI & Automation Enthusiast
