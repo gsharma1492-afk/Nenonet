@@ -1,24 +1,36 @@
 # 📄 Intelligent Invoice Processing using Nanonets
 
-## 📌 Project Overview
+## Overview
 
-This project demonstrates how Nanonets can be used to automate invoice data extraction and document processing. The system extracts key information from invoices and converts unstructured document data into structured business information.
+This project demonstrates the use of **Nanonets OCR and AI-powered document processing** to automatically extract information from purchase invoices.
 
-The solution helps reduce manual data entry, improve accuracy, and speed up financial document processing.
-
----
-
-## 🎯 Objectives
-
-- Automate invoice data extraction
-- Reduce manual processing effort
-- Improve data accuracy
-- Enable faster financial operations
-- Demonstrate AI-powered document intelligence
+The solution converts unstructured invoice documents into structured business data, reducing manual effort and improving processing efficiency.
 
 ---
 
-## 🛠 Tools Used
+## Sample Invoice
+
+<p align="center">
+  <img src="Purchase Invoice.png" alt="Purchase Invoice" width="700">
+</p>
+
+---
+
+## Project Objectives
+
+✅ Automate invoice data extraction
+
+✅ Reduce manual data entry
+
+✅ Improve processing accuracy
+
+✅ Enable faster financial operations
+
+✅ Demonstrate AI-powered document intelligence
+
+---
+
+## Technologies Used
 
 - Nanonets
 - OCR (Optical Character Recognition)
@@ -27,56 +39,55 @@ The solution helps reduce manual data entry, improve accuracy, and speed up fina
 
 ---
 
-## 📂 Project Files
+## Workflow
 
-- `Purchase Invoice.png` – Sample invoice document used for testing
-- Documentation and project resources
+```text
+Invoice Upload
+       ↓
+OCR Processing
+       ↓
+Field Detection
+       ↓
+Data Extraction
+       ↓
+Structured Output
+```
 
 ---
 
-## 🔍 Extracted Information
-
-The system can identify and extract:
+## Extracted Fields
 
 - Invoice Number
 - Invoice Date
-- Vendor Name
-- Customer Details
+- Vendor Details
+- Customer Information
 - Tax Information
-- Line Items
+- Product Details
 - Total Amount
-- Payment Details
+- Payment Information
 
 ---
 
-## 📈 Business Benefits
+## Business Impact
 
-- Faster invoice processing
-- Reduced manual effort
-- Improved accuracy
-- Better operational efficiency
-- Scalable document management
-
----
-
-## 🚀 Workflow
-
-1. Upload invoice document
-2. Nanonets processes the image
-3. OCR extracts text
-4. AI identifies key fields
-5. Structured data is generated
-6. Data can be exported to business systems
+- Faster Invoice Processing
+- Reduced Manual Effort
+- Improved Accuracy
+- Better Compliance
+- Enhanced Operational Efficiency
 
 ---
 
-## 📊 Project Outcome
+## Project Outcome
 
-This project demonstrates how AI-powered document processing can automate financial workflows and improve business efficiency through intelligent invoice extraction.
+Successfully demonstrated how AI and OCR technologies can automate financial document processing and support data-driven business operations.
 
 ---
 
-## 👨‍💼 Author
+## Author
 
-**Gagan Sharma**
-MBA Finance | Financial Analytics | AI & Automation Enthusiast
+**Gagan Sharma**  
+MBA Finance | Financial Analytics | AI Automation Enthusiast
+
+**Shivam Pandit**  
+MBA Finance | Financial Analytics | AI Automation Enthusiast
